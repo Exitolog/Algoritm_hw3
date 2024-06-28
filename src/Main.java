@@ -43,7 +43,6 @@ class List{
         head = tail;
         tail = temp;
     }
-
 }
 
 public class Main {
@@ -57,5 +56,6 @@ public class Main {
 
         list.reverse();
         list.print();
+
     }
 }
